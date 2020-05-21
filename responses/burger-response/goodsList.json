@@ -1,0 +1,43 @@
+[{
+	"product_id": 0,
+	"product_name": "Small_Burger",
+	"product_price": 50,
+	"product_calories": 20
+},
+{
+	"product_id": 1,
+	"product_name": "Big_Burger",
+	"product_price": 100,
+	"product_calories": 40
+},
+{
+	"product_id": 2,
+	"product_name": "Cheese",
+	"product_price": 10,
+	"product_calories": 20
+},
+{
+	"product_id": 3,
+	"product_name": "Salad",
+	"product_price": 20,
+	"product_calories": 5
+},
+{
+	"product_id": 4,
+	"product_name": "Potato",
+	"product_price": 10,
+	"product_calories": 15
+},
+{
+	"product_id": 5,
+	"product_name": "Seasoning",
+	"product_price": 15,
+	"product_calories": 0
+},
+{
+	"product_id": 6,
+	"product_name": "Mayonaise",
+	"product_price": 20,
+	"product_calories": 5
+}
+]
